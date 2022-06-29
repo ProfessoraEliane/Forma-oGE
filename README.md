@@ -1,4 +1,4 @@
-# Formacao do grupo de Estudos de Pensamento Computacional 
+# Formacao do grupo de Estudos de Pensamento Computacional do 2° TRimestre 
 
 
 ## 🚀 Começando
