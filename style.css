@@ -1,6 +1,8 @@
 body { text-align: justify;
 background-color: bisque;}
+#logo { width: 100%;}
 h1 { color:black;
-font-size: 50px;}
+font-size: 50px;
+border: 10px solid rgb(rgb(235, 138, 230) }
 p { text-align: justify;
 color: blue;}
