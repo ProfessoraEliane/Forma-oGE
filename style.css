@@ -3,7 +3,7 @@ background-color: rgb(241, 196, 255);}
 .texto-principal {
  background-color: pink;   
 }
-#logo {height: 10px;}
+.logo {height: 20%;}
 h1 { color:black;
 font-size: 10px;margin: 10px;padding: 4px;border: 30px solid red;
 }
@@ -12,3 +12,4 @@ color: blue;}
 .itens { font-size: 20px; text-align: center;}
 li::marker {	
     content:"\1F381"}
+ul{ display:inline-block;}
